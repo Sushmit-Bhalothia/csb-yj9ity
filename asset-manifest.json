@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/css/main.2d00ff62.chunk.css",
+    "main.js": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/main.52d2d20c.chunk.js",
+    "main.js.map": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/main.52d2d20c.chunk.js.map",
+    "runtime-main.js": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/runtime-main.f3526deb.js",
+    "runtime-main.js.map": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/runtime-main.f3526deb.js.map",
+    "static/js/2.cc863786.chunk.js": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://sushmit-bhalothia.github.io/csb-yj9ity/index.html",
+    "static/css/main.2d00ff62.chunk.css.map": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/css/main.2d00ff62.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://sushmit-bhalothia.github.io/csb-yj9ity/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3526deb.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.2d00ff62.chunk.css",
+    "static/js/main.52d2d20c.chunk.js"
+  ]
+}
